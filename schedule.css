@@ -9,7 +9,7 @@
     position: absolute;
     z-index: 100;
     left: 40%;
-    bottom: 40px;
+    margin-top: -120px;
 }
 
 .plus{
@@ -23,7 +23,7 @@
     align-items: center;
     color: #fff;
     right: 20px;
-    bottom: 16%;
+    margin-top: -200px;
 }
 
 .fa-less-than,.fa-greater-than{
