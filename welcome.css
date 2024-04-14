@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    font-family: "Montserrat", sans-serif;
+    font-style: normal;
+}
+
+.p{
+    text-decoration: underline;
+}
+
+input{
+    background-color: #f1f1f1;
+}
+
+input[placeholder]{
+    color: #7f7f7f;
+ }
+
+.ms-3 p{
+    color: #7f7f7f;
+  }
+
+button{
+    background-image: linear-gradient(to right, rgba(123, 145, 255, 1), rgba(149, 190, 255, 1));
+  }
