@@ -26,7 +26,7 @@ body{
     background-color: #fff;
     width: 100%;
     margin-bottom: 200px;
-    top: 975px;
+    top: 990px;
 }
 
 .search{
@@ -34,4 +34,17 @@ body{
     z-index: 100;
     left: 40%;
     top: 940px;
+}
+
+.fa-less-than{
+    background-color: #f1f1f1;
+    font-size: 10px;
+    padding: 10px;
+    margin-bottom: 0px;
+}
+
+.icon{
+    width: 20px;
+    height: 20px;  
+    margin-top: 5px;
 }
