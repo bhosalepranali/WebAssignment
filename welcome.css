@@ -21,6 +21,6 @@ input[placeholder]{
     color: #7f7f7f;
   }
 
-button{
+.button{
     background-image: linear-gradient(to right, rgba(123, 145, 255, 1), rgba(149, 190, 255, 1));
   }
