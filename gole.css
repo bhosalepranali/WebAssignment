@@ -4,3 +4,9 @@ body{
     font-family: "Montserrat", sans-serif;
     font-style: normal;
 }
+
+.button{
+    background-image: linear-gradient(to right, rgba(123, 145, 255, 1), rgba(149, 190, 255, 1));
+    text-decoration: none;
+    width: 90%;
+  }
